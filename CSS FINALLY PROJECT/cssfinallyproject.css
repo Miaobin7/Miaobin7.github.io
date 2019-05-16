@@ -1,0 +1,54 @@
+html{
+	background-image:url(Graphics/IMG_7156.jpg);
+}
+body{
+    width: 960px;
+    height: 800px;
+    padding: 30px;
+    margin-top: 90px;
+    margin-left: 80px;
+    margin-right:auto;
+    margin: 150px;
+}
+
+body{
+    text-align:center;
+    font-family:"shadows Into Light","reglar,sans-serif;
+}
+
+body{
+    border: 17px solid#FFE4E1;
+    background-color: #8FBCBF;
+}
+
+a{
+    font-size: 12pt;
+    color: #686143;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #fff;
+    
+}
+
+h1{
+    font-size: 36pt;
+    color: #87C;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 12pt;
+    line-height: 18pt;
+}
+
+img{
+    border: medium soild #666;
+    box-shadow: 7px 7px 7px rgba(0,0,0,.3);
+}
+ 
+
+
+
+
